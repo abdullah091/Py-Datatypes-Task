@@ -1,5 +1,7 @@
 # Py-datatypes-Task2
 
+## Tasks:
+
 Conisder the following list:
 ```list = [2, 0, 1, 0]```
 According to the question, write down the code or the output
@@ -37,3 +39,8 @@ Notes:
 
 10. Output: ```[0, 1, 0, 2] ```
 -  Code: ```?``` 
+
+
+## Submission:
+
+- Modify this file to complete the tasks then create a pull request
