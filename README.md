@@ -1,4 +1,5 @@
-# Py-datatypes-hw hw-2
+# Py-datatypes-Task2
+
 Conisder the following list:
 ```list = [2, 0, 1, 0]```
 According to the question, write down the code or the output
