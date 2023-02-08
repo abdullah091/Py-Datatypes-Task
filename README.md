@@ -1,4 +1,4 @@
-# Py-datatypes-Task2
+# Py-Datatypes-Task
 
 ## Tasks:
 
